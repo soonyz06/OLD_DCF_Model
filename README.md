@@ -1,5 +1,6 @@
-Price is the live price at the point in time where the program was last ran. 
-Automated rough scenario analysis via DCF based on conservativeness of various assumptions (growth, discount rate, margin expansion, cap/floors)
+Price is the live market price at the point in time when the program was last ran.  
+Automated estimations of the 'true' value of a stock using scenario analysis  
+Estimates are based on the degree of conservativeness of various assumptions (growth, discount rate, margin expansion, cap/floor)  
 
 # Output 
 Levered
